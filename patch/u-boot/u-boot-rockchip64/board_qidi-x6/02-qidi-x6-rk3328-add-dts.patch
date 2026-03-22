@@ -233,7 +233,7 @@ index 0000000000..20ca255664
 +
 +			vdd_arm: DCDC_REG2 {
 +				regulator-name = "vdd_arm";
-+				regulator-min-microvolt = <712500>;
++				regulator-min-microvolt = <1400000>;
 +				regulator-max-microvolt = <1450000>;
 +				regulator-always-on;
 +				regulator-boot-on;
